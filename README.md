@@ -1,4 +1,4 @@
-![logo](https://github.com/AbhijeetAJ-18/AbhijeetAJ-18/blob/main/frontend.png)
+![logo](https://tse2.mm.bing.net/th?id=OIP.JKWyCgQG1Sacr0CVqUj06AHaDY&pid=Api&P=0&h=400)
 
 <h1 align="center">Hi 👋, I'm Abhijeet Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
