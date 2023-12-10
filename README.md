@@ -1,4 +1,4 @@
-![logo](https://tse2.mm.bing.net/th?id=OIP.JKWyCgQG1Sacr0CVqUj06AHaDY&pid=Api&P=0&h=400)
+![logo]("C:\Users\Abhijeet\Downloads\Aj.jpg")
 
 <h1 align="center">Hi 👋, I'm Abhijeet Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
