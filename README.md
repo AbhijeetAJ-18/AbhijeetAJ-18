@@ -1,4 +1,4 @@
-![logo]("C:\Users\Abhijeet\Downloads\Aj.jpg")
+![logo]()
 
 <h1 align="center">Hi 👋, I'm Abhijeet Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
